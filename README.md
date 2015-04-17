@@ -19,7 +19,9 @@ To get started simply clone the repo and run the following commands to configure
 - Install GitBash
 
 - Install vagrant 
-	https://www.vagrantup.com/vagrantup.com
+
+	https://www.vagrantup.com/
+	
 - Install Virtualbox
 
 - Add vagrant box to your vagrant list
