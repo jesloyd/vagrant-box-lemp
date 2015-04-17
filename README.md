@@ -37,5 +37,9 @@ Just fork the cookbook and feel free to enhance.
 Author
 
 midnitekiller
+
 liefjillcolegado@gmail.com
+
 lief@desiredranking.com
+
+https://www.desiredranking.com
