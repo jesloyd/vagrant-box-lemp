@@ -1,9 +1,10 @@
 Intoduction
+
 This is a Vagrant LEMP configured box for development tests on WIndows 7 for Desired Ranking OJT's
 
 Getting Started
-Installed components
 
+Installed components
 
 - nginx
 - php5-fpm
@@ -14,24 +15,21 @@ Installed components
 To get started simply clone the repo and run the following commands to configure the project
 
 - ASK midnitekiller for the repackage BOX
+
 - Install GitBash
 - Install vagrant 
 	https://www.vagrantup.com/vagrantup.com
 - Install Virtualbox
-	
-Provisioning
-
-
-$ vagrant up
-
+- Add vagrant box to your vagrant list
+	command: vagrant box add ubuntu-trusty-lemp ubuntu-trusty-lemp.box	
+- Fire the box up
+	command: vagrant up
 
 Login
 
 To login to the vagrant box
 
-$ vagrant ssh
-
-
+	command: vagrant ssh
 
 Contributions
 Just fork the cookbook and feel free to enhance.
