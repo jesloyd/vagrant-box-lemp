@@ -17,12 +17,17 @@ To get started simply clone the repo and run the following commands to configure
 - ASK midnitekiller for the repackage BOX
 
 - Install GitBash
+
 - Install vagrant 
 	https://www.vagrantup.com/vagrantup.com
 - Install Virtualbox
+
 - Add vagrant box to your vagrant list
+
 	command: vagrant box add ubuntu-trusty-lemp ubuntu-trusty-lemp.box	
+
 - Fire the box up
+
 	command: vagrant up
 
 Login
